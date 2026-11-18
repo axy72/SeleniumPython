@@ -1,0 +1,456 @@
+11/12/2026 11:20:04 PM: INFO: ***** Test_001_Login ***** 
+11/12/2026 11:20:04 PM: INFO: ***** Starting  test case Home Page Title ***** 
+11/12/2026 11:20:06 PM: INFO: ***** test case Home Page Title PASSED ***** 
+11/12/2026 11:20:11 PM: INFO: ***** Test_001_Login ***** 
+11/12/2026 11:20:11 PM: INFO: ***** Starting  test case Log in ***** 
+11/12/2026 11:20:12 PM: INFO: ***** setUserName - Done
+11/12/2026 11:20:12 PM: INFO: ***** setPassword - Done
+11/12/2026 11:20:13 PM: INFO: ***** clickSubmit - Done
+11/12/2026 11:20:13 PM: ERROR: ***** test case Login - PASSED ******
+11/12/2026 11:33:57 PM: INFO: ***** Test_001_Login ***** 
+11/12/2026 11:33:57 PM: INFO: ***** Starting  test case Home Page Title ***** 
+11/12/2026 11:33:59 PM: INFO: ***** test case Home Page Title PASSED ***** 
+11/12/2026 11:34:04 PM: INFO: ***** Test_001_Login ***** 
+11/12/2026 11:34:04 PM: INFO: ***** Starting  test case Log in ***** 
+11/12/2026 11:34:05 PM: INFO: ***** setUserName - Done
+11/12/2026 11:34:06 PM: INFO: ***** setPassword - Done
+11/12/2026 11:34:06 PM: INFO: ***** clickSubmit - Done
+11/12/2026 11:34:06 PM: INFO: ***** test case Login - PASSED ******
+11/12/2026 11:35:14 PM: INFO: ***** Test_001_Login ***** 
+11/12/2026 11:35:14 PM: INFO: ***** Starting  test case Home Page Title ***** 
+11/12/2026 11:35:15 PM: INFO: ***** test case Home Page Title PASSED ***** 
+11/12/2026 11:35:29 PM: INFO: ***** Test_001_Login ***** 
+11/12/2026 11:35:29 PM: INFO: ***** Starting  test case Log in ***** 
+11/12/2026 11:35:32 PM: INFO: ***** setUserName - Done
+11/12/2026 11:35:32 PM: INFO: ***** setPassword - Done
+11/12/2026 11:35:33 PM: INFO: ***** clickSubmit - Done
+11/12/2026 11:35:34 PM: INFO: ***** test case Login - PASSED ******
+11/12/2026 11:43:08 PM: INFO: ***** Test_001_Login ***** 
+11/12/2026 11:43:08 PM: INFO: ***** Starting  test case Home Page Title ***** 
+11/12/2026 11:46:16 PM: INFO: ***** Test_001_Login ***** 
+11/12/2026 11:46:16 PM: INFO: ***** Starting  test case Home Page Title ***** 
+11/12/2026 11:46:16 PM: INFO: ***** Test_001_Login ***** 
+11/12/2026 11:46:16 PM: INFO: ***** Starting  test case Log in ***** 
+11/12/2026 11:46:17 PM: INFO: ***** test case Home Page Title PASSED ***** 
+11/12/2026 11:46:18 PM: INFO: ***** setUserName - Done
+11/12/2026 11:46:18 PM: INFO: ***** setPassword - Done
+11/12/2026 11:46:19 PM: INFO: ***** clickSubmit - Done
+11/12/2026 11:46:19 PM: INFO: ***** test case Login - PASSED ******
+11/13/2026 12:07:03 AM: INFO: ***** Test_001_Login ***** 
+11/13/2026 12:07:03 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/13/2026 12:07:05 AM: INFO: ***** Test_001_Login ***** 
+11/13/2026 12:07:05 AM: INFO: ***** Starting  test case Log in ***** 
+11/13/2026 12:07:06 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/13/2026 12:07:06 AM: INFO: ***** setUserName - Done
+11/13/2026 12:07:07 AM: INFO: ***** setPassword - Done
+11/13/2026 12:07:08 AM: INFO: ***** clickSubmit - Done
+11/13/2026 12:07:08 AM: INFO: ***** test case Login - PASSED ******
+11/16/2026 11:06:44 PM: INFO: ***** Test_002_Login_DDT ***** 
+11/16/2026 11:06:44 PM: INFO: ***** Starting  test case Log in ***** 
+11/16/2026 11:07:55 PM: INFO: ***** Test_002_Login_DDT ***** 
+11/16/2026 11:07:55 PM: INFO: ***** Starting  test case Log in ***** 
+11/16/2026 11:10:34 PM: INFO: ***** Test_002_Login_DDT ***** 
+11/16/2026 11:10:34 PM: INFO: ***** Starting  test case Log in ***** 
+11/16/2026 11:11:43 PM: INFO: ***** Test_002_Login_DDT ***** 
+11/16/2026 11:11:43 PM: INFO: ***** Starting  test case Log in ***** 
+11/16/2026 11:13:08 PM: INFO: ***** Test_002_Login_DDT ***** 
+11/16/2026 11:13:08 PM: INFO: ***** Starting  test case Log in ***** 
+11/16/2026 11:13:10 PM: INFO: Number of rows...4
+11/16/2026 11:13:10 PM: INFO: student 
+11/16/2026 11:13:10 PM: INFO: Password123 
+11/16/2026 11:13:10 PM: INFO: pass
+11/16/2026 11:13:10 PM: INFO: incorrectUser 
+11/16/2026 11:13:10 PM: INFO: Password123 
+11/16/2026 11:13:10 PM: INFO: fail
+11/16/2026 11:13:10 PM: INFO: student 
+11/16/2026 11:13:10 PM: INFO: Password123 
+11/16/2026 11:13:10 PM: INFO: fail
+11/17/2026 12:26:17 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 12:26:17 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 12:26:18 AM: INFO: Number of rows...4
+11/17/2026 12:26:18 AM: INFO: student 
+11/17/2026 12:26:18 AM: INFO: Password123 
+11/17/2026 12:26:18 AM: INFO: pass
+11/17/2026 12:26:19 AM: INFO: Fail
+11/17/2026 12:26:19 AM: INFO: incorrectUser 
+11/17/2026 12:26:19 AM: INFO: Password123 
+11/17/2026 12:26:19 AM: INFO: fail
+11/17/2026 12:26:19 AM: INFO: Pass
+11/17/2026 12:26:19 AM: INFO: student 
+11/17/2026 12:26:19 AM: INFO: pass123
+11/17/2026 12:26:19 AM: INFO: fail
+11/17/2026 12:26:20 AM: INFO: Pass
+11/17/2026 12:31:23 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 12:31:23 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 12:31:25 AM: INFO: Number of rows...4
+11/17/2026 12:31:25 AM: INFO: student 
+11/17/2026 12:31:25 AM: INFO: Password123 
+11/17/2026 12:31:25 AM: INFO: pass
+11/17/2026 12:31:25 AM: INFO: result:Fail
+11/17/2026 12:31:25 AM: INFO: **** failed ****
+11/17/2026 12:31:25 AM: INFO: incorrectUser 
+11/17/2026 12:31:25 AM: INFO: Password123 
+11/17/2026 12:31:25 AM: INFO: fail
+11/17/2026 12:31:26 AM: INFO: result:Pass
+11/17/2026 12:31:26 AM: INFO: **** passed ****
+11/17/2026 12:31:26 AM: INFO: student 
+11/17/2026 12:31:26 AM: INFO: pass123
+11/17/2026 12:31:26 AM: INFO: fail
+11/17/2026 12:31:26 AM: INFO: result:Pass
+11/17/2026 12:31:26 AM: INFO: **** passed ****
+11/17/2026 12:36:18 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 12:36:18 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 12:36:20 AM: INFO: Number of rows...4
+11/17/2026 12:36:20 AM: INFO: student
+11/17/2026 12:36:20 AM: INFO: Password123
+11/17/2026 12:36:20 AM: INFO: pass
+11/17/2026 12:36:21 AM: INFO: result:Pass
+11/17/2026 12:36:21 AM: INFO: **** passed ****
+11/17/2026 12:36:21 AM: INFO: incorrectUser
+11/17/2026 12:36:21 AM: INFO: Password123
+11/17/2026 12:36:21 AM: INFO: fail
+11/17/2026 12:36:22 AM: INFO: result:Pass
+11/17/2026 12:36:22 AM: INFO: **** passed ****
+11/17/2026 12:36:22 AM: INFO: student
+11/17/2026 12:36:22 AM: INFO: pass123
+11/17/2026 12:36:22 AM: INFO: fail
+11/17/2026 12:36:22 AM: INFO: result:Pass
+11/17/2026 12:36:22 AM: INFO: **** passed ****
+11/17/2026 12:36:22 AM: INFO: **** DDT TEST PASSED ****
+11/17/2026 12:38:04 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 12:38:04 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 12:38:06 AM: INFO: Number of rows...4
+11/17/2026 12:38:06 AM: INFO: student
+11/17/2026 12:38:06 AM: INFO: Password123
+11/17/2026 12:38:06 AM: INFO: pass
+11/17/2026 12:38:07 AM: INFO: result:Pass
+11/17/2026 12:38:07 AM: INFO: **** passed ****
+11/17/2026 12:38:08 AM: INFO: incorrectUser
+11/17/2026 12:38:08 AM: INFO: Password123
+11/17/2026 12:38:08 AM: INFO: fail
+11/17/2026 12:38:08 AM: INFO: result:Pass
+11/17/2026 12:38:08 AM: INFO: **** passed ****
+11/17/2026 12:38:08 AM: INFO: student
+11/17/2026 12:38:08 AM: INFO: pass123
+11/17/2026 12:38:08 AM: INFO: pass
+11/17/2026 12:38:09 AM: INFO: result:Fail
+11/17/2026 12:38:09 AM: INFO: **** failed ****
+11/17/2026 12:38:09 AM: INFO: **** DDT TEST FAILED ****
+11/17/2026 12:39:03 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 12:39:03 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 12:39:04 AM: INFO: Number of rows...4
+11/17/2026 12:39:04 AM: INFO: student
+11/17/2026 12:39:04 AM: INFO: Password123
+11/17/2026 12:39:04 AM: INFO: pass
+11/17/2026 12:39:06 AM: INFO: result:Pass
+11/17/2026 12:39:06 AM: INFO: **** passed ****
+11/17/2026 12:39:06 AM: INFO: incorrectUser
+11/17/2026 12:39:06 AM: INFO: Password123
+11/17/2026 12:39:06 AM: INFO: fail
+11/17/2026 12:39:06 AM: INFO: result:Pass
+11/17/2026 12:39:06 AM: INFO: **** passed ****
+11/17/2026 12:39:06 AM: INFO: student
+11/17/2026 12:39:06 AM: INFO: pass123
+11/17/2026 12:39:06 AM: INFO: pass
+11/17/2026 12:39:07 AM: INFO: result:Fail
+11/17/2026 12:39:07 AM: INFO: **** failed ****
+11/17/2026 12:39:07 AM: INFO: **** DDT TEST FAILED ****
+11/17/2026 12:40:40 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 12:40:40 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 12:40:41 AM: INFO: Number of rows...4
+11/17/2026 12:40:41 AM: INFO: student
+11/17/2026 12:40:41 AM: INFO: Password123
+11/17/2026 12:40:41 AM: INFO: pass
+11/17/2026 12:40:42 AM: INFO: result:Pass
+11/17/2026 12:40:42 AM: INFO: **** passed ****
+11/17/2026 12:40:43 AM: INFO: incorrectUser
+11/17/2026 12:40:43 AM: INFO: Password123
+11/17/2026 12:40:43 AM: INFO: fail
+11/17/2026 12:40:43 AM: INFO: result:Pass
+11/17/2026 12:40:43 AM: INFO: **** passed ****
+11/17/2026 12:40:43 AM: INFO: student
+11/17/2026 12:40:43 AM: INFO: pass123
+11/17/2026 12:40:43 AM: INFO: pass
+11/17/2026 12:40:43 AM: INFO: result:Fail
+11/17/2026 12:40:43 AM: INFO: **** failed ****
+11/17/2026 12:40:43 AM: INFO: **** DDT TEST FAILED ****
+11/17/2026 12:43:33 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 12:43:33 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 12:43:36 AM: INFO: Number of rows...4
+11/17/2026 12:43:36 AM: INFO: student
+11/17/2026 12:43:36 AM: INFO: Password123
+11/17/2026 12:43:36 AM: INFO: pass
+11/17/2026 12:43:37 AM: INFO: result:Pass
+11/17/2026 12:43:37 AM: INFO: **** passed ****
+11/17/2026 12:43:38 AM: INFO: incorrectUser
+11/17/2026 12:43:38 AM: INFO: Password123
+11/17/2026 12:43:38 AM: INFO: fail
+11/17/2026 12:43:38 AM: INFO: result:Pass
+11/17/2026 12:43:38 AM: INFO: **** passed ****
+11/17/2026 12:43:38 AM: INFO: student
+11/17/2026 12:43:38 AM: INFO: pass123
+11/17/2026 12:43:38 AM: INFO: fail
+11/17/2026 12:43:38 AM: INFO: result:Pass
+11/17/2026 12:43:38 AM: INFO: **** passed ****
+11/17/2026 12:43:38 AM: INFO: **** DDT TEST PASSED ****
+11/17/2026 01:12:25 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:12:25 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/17/2026 01:12:26 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/17/2026 01:20:23 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:20:23 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/17/2026 01:20:26 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/17/2026 01:20:31 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:20:31 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 01:20:32 AM: INFO: ***** setUserName - Done
+11/17/2026 01:20:32 AM: INFO: ***** setPassword - Done
+11/17/2026 01:20:33 AM: INFO: ***** clickSubmit - Done
+11/17/2026 01:20:33 AM: INFO: ***** test case Login - PASSED ******
+11/17/2026 01:20:38 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 01:20:38 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 01:20:39 AM: INFO: Number of rows...4
+11/17/2026 01:20:39 AM: INFO: student
+11/17/2026 01:20:39 AM: INFO: Password123
+11/17/2026 01:20:39 AM: INFO: pass
+11/17/2026 01:20:41 AM: INFO: result:Pass
+11/17/2026 01:20:41 AM: INFO: **** passed ****
+11/17/2026 01:20:41 AM: INFO: incorrectUser
+11/17/2026 01:20:41 AM: INFO: Password123
+11/17/2026 01:20:41 AM: INFO: fail
+11/17/2026 01:20:41 AM: INFO: result:Pass
+11/17/2026 01:20:41 AM: INFO: **** passed ****
+11/17/2026 01:20:41 AM: INFO: student
+11/17/2026 01:20:41 AM: INFO: pass123
+11/17/2026 01:20:41 AM: INFO: fail
+11/17/2026 01:20:42 AM: INFO: result:Pass
+11/17/2026 01:20:42 AM: INFO: **** passed ****
+11/17/2026 01:20:42 AM: INFO: **** DDT TEST PASSED ****
+11/17/2026 01:29:07 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:29:07 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/17/2026 01:29:12 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/17/2026 01:29:19 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:29:19 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 01:29:22 AM: INFO: ***** setUserName - Done
+11/17/2026 01:29:22 AM: INFO: ***** setPassword - Done
+11/17/2026 01:29:23 AM: INFO: ***** clickSubmit - Done
+11/17/2026 01:29:23 AM: INFO: ***** test case Login - PASSED ******
+11/17/2026 01:29:28 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 01:29:28 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 01:29:29 AM: INFO: Number of rows...4
+11/17/2026 01:29:29 AM: INFO: student
+11/17/2026 01:29:29 AM: INFO: Password123
+11/17/2026 01:29:29 AM: INFO: pass
+11/17/2026 01:29:31 AM: INFO: result:Pass
+11/17/2026 01:29:31 AM: INFO: **** passed ****
+11/17/2026 01:29:31 AM: INFO: incorrectUser
+11/17/2026 01:29:31 AM: INFO: Password123
+11/17/2026 01:29:31 AM: INFO: fail
+11/17/2026 01:29:31 AM: INFO: result:Pass
+11/17/2026 01:29:31 AM: INFO: **** passed ****
+11/17/2026 01:29:31 AM: INFO: student
+11/17/2026 01:29:32 AM: INFO: pass123
+11/17/2026 01:29:32 AM: INFO: fail
+11/17/2026 01:29:32 AM: INFO: result:Pass
+11/17/2026 01:29:32 AM: INFO: **** passed ****
+11/17/2026 01:29:32 AM: INFO: **** DDT TEST PASSED ****
+11/17/2026 01:39:29 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:39:29 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/17/2026 01:39:30 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/17/2026 01:39:38 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:39:38 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/17/2026 01:39:40 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/17/2026 01:39:45 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:39:45 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 01:39:46 AM: INFO: ***** setUserName - Done
+11/17/2026 01:39:46 AM: INFO: ***** setPassword - Done
+11/17/2026 01:39:47 AM: INFO: ***** clickSubmit - Done
+11/17/2026 01:39:47 AM: INFO: ***** test case Login - PASSED ******
+11/17/2026 01:39:52 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 01:39:52 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 01:39:53 AM: INFO: Number of rows...4
+11/17/2026 01:39:53 AM: INFO: student
+11/17/2026 01:39:53 AM: INFO: Password123
+11/17/2026 01:39:53 AM: INFO: pass
+11/17/2026 01:39:54 AM: INFO: result:Pass
+11/17/2026 01:39:54 AM: INFO: **** passed ****
+11/17/2026 01:39:55 AM: INFO: incorrectUser
+11/17/2026 01:39:55 AM: INFO: Password123
+11/17/2026 01:39:55 AM: INFO: fail
+11/17/2026 01:39:55 AM: INFO: result:Pass
+11/17/2026 01:39:55 AM: INFO: **** passed ****
+11/17/2026 01:39:55 AM: INFO: student
+11/17/2026 01:39:55 AM: INFO: pass123
+11/17/2026 01:39:55 AM: INFO: fail
+11/17/2026 01:39:56 AM: INFO: result:Pass
+11/17/2026 01:39:56 AM: INFO: **** passed ****
+11/17/2026 01:39:56 AM: INFO: **** DDT TEST PASSED ****
+11/17/2026 01:40:15 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:40:15 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/17/2026 01:40:17 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/17/2026 01:40:35 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:40:35 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/17/2026 01:40:36 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/17/2026 01:40:51 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:40:51 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 01:40:52 AM: INFO: ***** setUserName - Done
+11/17/2026 01:40:52 AM: INFO: ***** setPassword - Done
+11/17/2026 01:40:54 AM: INFO: ***** clickSubmit - Done
+11/17/2026 01:40:54 AM: INFO: ***** test case Login - PASSED ******
+11/17/2026 01:41:11 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 01:41:11 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 01:41:13 AM: INFO: Number of rows...4
+11/17/2026 01:41:13 AM: INFO: student
+11/17/2026 01:41:13 AM: INFO: Password123
+11/17/2026 01:41:13 AM: INFO: pass
+11/17/2026 01:41:15 AM: INFO: result:Pass
+11/17/2026 01:41:15 AM: INFO: **** passed ****
+11/17/2026 01:41:16 AM: INFO: incorrectUser
+11/17/2026 01:41:16 AM: INFO: Password123
+11/17/2026 01:41:16 AM: INFO: fail
+11/17/2026 01:41:16 AM: INFO: result:Pass
+11/17/2026 01:41:16 AM: INFO: **** passed ****
+11/17/2026 01:41:16 AM: INFO: student
+11/17/2026 01:41:16 AM: INFO: pass123
+11/17/2026 01:41:16 AM: INFO: fail
+11/17/2026 01:41:16 AM: INFO: result:Pass
+11/17/2026 01:41:16 AM: INFO: **** passed ****
+11/17/2026 01:41:16 AM: INFO: **** DDT TEST PASSED ****
+11/17/2026 01:48:10 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:48:10 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/17/2026 01:48:24 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/17/2026 01:48:30 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:48:30 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 01:48:31 AM: INFO: ***** setUserName - Done
+11/17/2026 01:48:31 AM: INFO: ***** setPassword - Done
+11/17/2026 01:48:32 AM: INFO: ***** clickSubmit - Done
+11/17/2026 01:48:32 AM: INFO: ***** test case Login - PASSED ******
+11/17/2026 01:48:37 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 01:48:37 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 01:48:38 AM: INFO: Number of rows...4
+11/17/2026 01:48:38 AM: INFO: student
+11/17/2026 01:48:38 AM: INFO: Password123
+11/17/2026 01:48:38 AM: INFO: pass
+11/17/2026 01:48:39 AM: INFO: result:Pass
+11/17/2026 01:48:39 AM: INFO: **** passed ****
+11/17/2026 01:48:40 AM: INFO: incorrectUser
+11/17/2026 01:48:40 AM: INFO: Password123
+11/17/2026 01:48:40 AM: INFO: fail
+11/17/2026 01:48:40 AM: INFO: result:Pass
+11/17/2026 01:48:40 AM: INFO: **** passed ****
+11/17/2026 01:48:40 AM: INFO: student
+11/17/2026 01:48:40 AM: INFO: pass123
+11/17/2026 01:48:40 AM: INFO: fail
+11/17/2026 01:48:40 AM: INFO: result:Pass
+11/17/2026 01:48:40 AM: INFO: **** passed ****
+11/17/2026 01:48:40 AM: INFO: **** DDT TEST PASSED ****
+11/17/2026 01:49:25 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:49:25 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/17/2026 01:49:25 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 01:49:25 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 01:49:27 AM: INFO: Number of rows...4
+11/17/2026 01:49:27 AM: INFO: student
+11/17/2026 01:49:27 AM: INFO: Password123
+11/17/2026 01:49:27 AM: INFO: pass
+11/17/2026 01:49:27 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/17/2026 01:49:27 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 01:49:27 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 01:49:30 AM: INFO: ***** setUserName - Done
+11/17/2026 01:49:30 AM: INFO: result:Pass
+11/17/2026 01:49:30 AM: INFO: **** passed ****
+11/17/2026 01:49:30 AM: INFO: ***** setPassword - Done
+11/17/2026 01:49:30 AM: INFO: incorrectUser
+11/17/2026 01:49:30 AM: INFO: Password123
+11/17/2026 01:49:30 AM: INFO: fail
+11/17/2026 01:49:31 AM: INFO: result:Pass
+11/17/2026 01:49:31 AM: INFO: **** passed ****
+11/17/2026 01:49:31 AM: INFO: student
+11/17/2026 01:49:31 AM: INFO: pass123
+11/17/2026 01:49:31 AM: INFO: fail
+11/17/2026 01:49:31 AM: INFO: ***** clickSubmit - Done
+11/17/2026 01:49:31 AM: INFO: ***** test case Login - PASSED ******
+11/17/2026 01:49:31 AM: INFO: result:Pass
+11/17/2026 01:49:31 AM: INFO: **** passed ****
+11/17/2026 01:49:31 AM: INFO: **** DDT TEST PASSED ****
+11/17/2026 02:12:23 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 02:12:23 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 02:12:34 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 02:12:34 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/17/2026 02:12:36 AM: INFO: Number of rows...4
+11/17/2026 02:12:36 AM: INFO: student
+11/17/2026 02:12:36 AM: INFO: Password123
+11/17/2026 02:12:36 AM: INFO: pass
+11/17/2026 02:12:36 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 02:12:36 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 02:12:37 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/17/2026 02:12:39 AM: INFO: ***** setUserName - Done
+11/17/2026 02:12:40 AM: INFO: ***** setPassword - Done
+11/17/2026 02:12:40 AM: INFO: result:Pass
+11/17/2026 02:12:40 AM: INFO: **** passed ****
+11/17/2026 02:12:41 AM: INFO: incorrectUser
+11/17/2026 02:12:41 AM: INFO: Password123
+11/17/2026 02:12:41 AM: INFO: fail
+11/17/2026 02:12:41 AM: INFO: ***** clickSubmit - Done
+11/17/2026 02:12:41 AM: INFO: ***** test case Login - PASSED ******
+11/17/2026 02:12:42 AM: INFO: result:Pass
+11/17/2026 02:12:42 AM: INFO: **** passed ****
+11/17/2026 02:12:42 AM: INFO: student
+11/17/2026 02:12:42 AM: INFO: pass123
+11/17/2026 02:12:42 AM: INFO: fail
+11/17/2026 02:12:43 AM: INFO: result:Pass
+11/17/2026 02:12:43 AM: INFO: **** passed ****
+11/17/2026 02:12:43 AM: INFO: **** DDT TEST PASSED ****
+11/17/2026 02:15:23 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 02:15:23 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 02:15:23 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 02:15:23 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 02:15:25 AM: INFO: Number of rows...4
+11/17/2026 02:15:25 AM: INFO: student
+11/17/2026 02:15:25 AM: INFO: Password123
+11/17/2026 02:15:25 AM: INFO: pass
+11/17/2026 02:15:26 AM: INFO: ***** setUserName - Done
+11/17/2026 02:15:26 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 02:15:26 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/17/2026 02:15:26 AM: INFO: ***** setPassword - Done
+11/17/2026 02:15:38 AM: INFO: result:Pass
+11/17/2026 02:15:38 AM: INFO: **** passed ****
+11/17/2026 02:15:38 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/17/2026 02:15:39 AM: INFO: ***** clickSubmit - Done
+11/17/2026 02:15:39 AM: INFO: ***** test case Login - PASSED ******
+11/17/2026 02:15:39 AM: INFO: incorrectUser
+11/17/2026 02:15:39 AM: INFO: Password123
+11/17/2026 02:15:39 AM: INFO: fail
+11/17/2026 02:15:40 AM: INFO: result:Pass
+11/17/2026 02:15:40 AM: INFO: **** passed ****
+11/17/2026 02:15:40 AM: INFO: student
+11/17/2026 02:15:40 AM: INFO: pass123
+11/17/2026 02:15:40 AM: INFO: fail
+11/17/2026 02:15:41 AM: INFO: result:Pass
+11/17/2026 02:15:41 AM: INFO: **** passed ****
+11/17/2026 02:15:41 AM: INFO: **** DDT TEST PASSED ****
+11/17/2026 02:17:34 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 02:17:34 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 02:17:34 AM: INFO: ***** Test_001_Login ***** 
+11/17/2026 02:17:34 AM: INFO: ***** Starting  test case Home Page Title ***** 
+11/17/2026 02:17:35 AM: INFO: ***** Test_002_Login_DDT ***** 
+11/17/2026 02:17:35 AM: INFO: ***** Starting  test case Log in ***** 
+11/17/2026 02:17:36 AM: INFO: Number of rows...4
+11/17/2026 02:17:37 AM: INFO: student
+11/17/2026 02:17:37 AM: INFO: Password123
+11/17/2026 02:17:37 AM: INFO: pass
+11/17/2026 02:17:37 AM: INFO: ***** setUserName - Done
+11/17/2026 02:17:37 AM: INFO: ***** test case Home Page Title PASSED ***** 
+11/17/2026 02:17:37 AM: INFO: ***** setPassword - Done
+11/17/2026 02:17:39 AM: INFO: ***** clickSubmit - Done
+11/17/2026 02:17:39 AM: INFO: result:Pass
+11/17/2026 02:17:39 AM: INFO: **** passed ****
+11/17/2026 02:17:39 AM: INFO: ***** test case Login - PASSED ******
+11/17/2026 02:17:39 AM: INFO: incorrectUser
+11/17/2026 02:17:39 AM: INFO: Password123
+11/17/2026 02:17:39 AM: INFO: fail
+11/17/2026 02:17:40 AM: INFO: result:Pass
+11/17/2026 02:17:40 AM: INFO: **** passed ****
+11/17/2026 02:17:40 AM: INFO: student
+11/17/2026 02:17:40 AM: INFO: pass123
+11/17/2026 02:17:40 AM: INFO: fail
+11/17/2026 02:17:40 AM: INFO: result:Pass
+11/17/2026 02:17:40 AM: INFO: **** passed ****
+11/17/2026 02:17:40 AM: INFO: **** DDT TEST PASSED ****
